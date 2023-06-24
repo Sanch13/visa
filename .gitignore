@@ -1,0 +1,12 @@
+.idea
+venv
+*pycache*
+*.env
+/env
+*.sqlite3
+*.pyc
+__pycache__
+__init__
+*.crt
+*.key
+vosk-model-small-en-us-0.15
